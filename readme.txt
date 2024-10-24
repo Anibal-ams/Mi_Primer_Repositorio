@@ -1,2 +1,3 @@
 #mi primer repositorio
-añadir README 
+añadir README
+modificamos el archivo 
